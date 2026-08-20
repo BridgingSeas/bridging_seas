@@ -177,6 +177,11 @@ const branches = [
         role: "Graphic Design & Marketing Director", 
         image: "/people/michelle.jpeg" 
       },
+      {
+        name: "Yoobin Park",
+        role: "Korean Outreach Director",
+        image: "/people/yoobin.png",
+      },
     ],
   },
       {
