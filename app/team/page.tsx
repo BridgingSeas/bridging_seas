@@ -109,9 +109,14 @@ const branches = [
         image: "/people/julia.jpeg"
       },
       {
+        name: "Alice Lim",
+        role: "Korean Outreach Director",
+        image: "/people/alice.png"
+      },
+      {
         name: "Kiki Yang",
         role: "Graphics Director",
-        image: "/people/kiki.png"
+        image: "/people/kiki.jpg"
       },
       {
         name: "Namira Islam",
