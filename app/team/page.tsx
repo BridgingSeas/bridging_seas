@@ -111,12 +111,12 @@ const branches = [
       {
         name: "Kiki Yang",
         role: "Graphics Director",
-        image: "/people/kiki.jpeg"
+        image: "/people/kiki.png"
       },
       {
         name: "Namira Islam",
         role: "Bengali Outreach Director",
-        image: "/people/namira.jpeg"
+        image: "/people/namira.jpg"
       },
     ],
   },
