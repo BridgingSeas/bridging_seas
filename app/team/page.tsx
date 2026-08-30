@@ -80,6 +80,7 @@ const branches = [
         role: "Technology Director",
         image: "/people/ethan.jpeg",
         linkedin: "https://www.linkedin.com/in/urb6n/",
+        github: "https://github.com/urb6n",
       },
       { name: "Catherine Cai", 
         role: "Chinese Outreach Director", 
