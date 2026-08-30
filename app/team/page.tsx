@@ -116,7 +116,8 @@ const branches = [
       {
         name: "Kiki Yang",
         role: "Graphics Director",
-        image: "/people/kiki.jpg"
+        image: "/people/kiki.jpg",
+        linkedin: "https://www.linkedin.com/in/lin-qi-yang-b12565422/"
       },
       {
         name: "Namira Islam",
